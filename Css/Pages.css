@@ -1,0 +1,96 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    box-shadow: 0px 0px 20px 5px rgb(0, 0, 0);
+    background-image: url(/PW/Images/Pel.jpeg);
+    text-shadow: 0px 0px 4px rgba(0, 0, 0.8);
+    color: beige;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#Did {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: cadetblue;
+    margin-left: 30%;
+}
+
+#foot {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: chocolate;
+    justify-content:space-between;
+    display: flex;
+}
+
+p {
+    background-color: rgba(240, 255, 255, 0.356);
+    border-radius: 30px;
+}
+
+#Pas1 {
+    width: 60%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+#Pas2 {
+    width: 25%;
+    height: 25%;
+    background-color: rgba(0, 0, 0, 0.356);
+    color: azure;
+    font-size: 15px;
+    border-radius: 10px;
+    margin-left: 25%;
+
+}
+
+
+#Pas3 {
+    width: 25%;
+    height: 25%;
+    background-color: rgba(0, 0, 0, 0.356);
+    color: azure;
+    font-size: 15px;
+    border-radius: 10px;
+    margin-left: 10%;
+
+}
+
+
+.DEL {
+    margin-left: 30% ;
+}
+
+.col {
+    width: 50%;
+    margin: 5%;
+    padding: 3%;
+}
+
+/* .prio {
+    width: 50%;
+    height: 50%;
+    margin: 3%;
+    padding: 1%;
+} */
+
+#Pro {
+    display: flex;
+    flex-direction: row;
+}
+p {
+    margin: 2%;
+    padding: 2%;
+}
+
+#fin {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 50%;
+}
